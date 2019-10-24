@@ -1,0 +1,22 @@
+.navbar{
+    font-family: "Poppins" !important;
+    background-color: white !important;
+}
+
+.nav-link:hover {
+    color: #AD84C7 !important;
+}
+
+.carousel-item img {
+    height: 30rem !important;
+}
+
+.buscador {
+    width: 60%;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: -100px;
+    position: relative;
+    z-index: 9;
+}
+
